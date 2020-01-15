@@ -1,4 +1,4 @@
-# Using Web Components
+# Downloading Web Components
 
 - Web Components are reusable widgets available as custom HTML element
 - <image-crop-element> is one such WC
